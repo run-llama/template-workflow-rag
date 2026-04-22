@@ -11,7 +11,7 @@ readme = "README.md"
 dependencies = [
   "llama-index-llms-openai",
   "llama-index-embeddings-openai",
-  "llama-index-workflows>=2.5.0,<3.0.0"
+  "llama-index-workflows>=2.16.0,<3.0.0",
 ]
 
 [dependency-groups]
